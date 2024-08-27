@@ -70,3 +70,11 @@
 **Project Link:** [Project 1 .NET](https://gitlab.com/chhabriameet/project1-dotnet/-/tree/master?ref_type=heads)
 
 ---
+
+## Team 7
+
+**Members:**
+- Mayank Mali
+  
+(Note: He has already sent the project through email.)
+

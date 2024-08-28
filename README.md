@@ -22,8 +22,7 @@
 - Tanisha Gondke
 - Shivani Prasad
 
-(Note: Nandita has already sent the project through email.)
-
+(Link:  [Aasman Dotnet Assignment]([https://github.com/shubham-k01/Aasman_Dotnet_Assg](https://icicigroup-my.sharepoint.com/:f:/g/personal/1041750_icicilombard_com/EhWJ2hstirJHvg4UcC9wR2IBebBkpkOFtdrqTQx4MJi66A?e=Gnvuhu))
 ---
 
 ## Team 3

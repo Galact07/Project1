@@ -14,6 +14,8 @@
 
 **Project2 Link:** [Angular](https://github.com/Galact07/Project-2/tree/main)
 
+**Project2 Link:** [Cloud(Azure)](https://github.com/printROSHN/Project-3-Creating-a-VM-Instance-in-Azure-and-Attaching-Storage/tree/main)
+
 
 ---
 

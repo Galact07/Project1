@@ -53,7 +53,7 @@
 
 **Project Link:** [Project 1](https://github.com/AditiChakraborty1212/Project1)
 
-**Project2 Link:** (I have not received the link yet)
+**Project2 Link:** [Project 2](https://github.com/kokateprasad28/Training-Project3)
 ---
 
 ## Team 5

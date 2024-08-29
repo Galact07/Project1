@@ -10,7 +10,9 @@
 - Kushal Singh
 - Mukul Singh
 
-**Project Link:** [Insurance Policies CRUD App](https://github.com/printROSHN/InsurancePoliciesCRUDApp)
+**Project1 Link:** [Insurance Policies CRUD App](https://github.com/printROSHN/InsurancePoliciesCRUDApp)
+**Project2 Link:** [Angular](https://github.com/Galact07/Project-2/tree/main)
+
 
 ---
 
@@ -23,6 +25,7 @@
 - Shivani Prasad
 
 (Link:  [Aasman Dotnet Assignment](https://icicigroup-my.sharepoint.com/:f:/g/personal/1041750_icicilombard_com/EhWJ2hstirJHvg4UcC9wR2IBebBkpkOFtdrqTQx4MJi66A?e=Gnvuhu)
+**Project2 Link:** [Angular](https://github.com/Zedx07/Project)
 ---
 
 ## Team 3
@@ -34,6 +37,7 @@
 - Vandesh Sawant
 
 **Project Link:** [Aasman Dotnet Assignment](https://github.com/shubham-k01/Aasman_Dotnet_Assg)
+**Project2 Link:** (Not yet submitted)
 
 ---
 
@@ -45,7 +49,7 @@
 - Prasad Kokate
 
 **Project Link:** [Project 1](https://github.com/AditiChakraborty1212/Project1)
-
+**Project2 Link:** (Not yet submitted)
 ---
 
 ## Team 5
@@ -55,7 +59,7 @@
 - Durga Warrier
 
 **Project Link:** [Assessment 1](https://github.com/kailash450/Assessment_1)
-
+**Project2 Link:** (Not yet submitted)
 ---
 
 ## Team 6
@@ -67,6 +71,7 @@
 - Neeraj Chawla
 
 **Project Link:** [Project 1 .NET](https://gitlab.com/chhabriameet/project1-dotnet/-/tree/master?ref_type=heads)
+**Project2 Link:** [Angular](https://gitlab.com/chhabriameet/angular-crud/-/tree/master?ref_type=heads)
 
 ---
 
@@ -76,4 +81,5 @@
 - Mayank Mali
   
 (Note: He has already sent the project through email.)
+(Yet to submit)
 

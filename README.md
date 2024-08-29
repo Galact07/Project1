@@ -8,7 +8,7 @@
 - Sidharth Nair
 - Roshankumar Pokal
 - Kushal Singh
-- Mukul Singh
+- Mukul
 
 **Project1 Link:** [Insurance Policies CRUD App](https://github.com/printROSHN/InsurancePoliciesCRUDApp)
 

@@ -63,6 +63,7 @@
 **Members:**
 - Kailash Bangari
 - Durga Warrier
+- Mayank Mali
 
 **Project Link:** [Assessment 1](https://github.com/kailash450/Assessment_1)
 
@@ -80,14 +81,3 @@
 **Project Link:** [Project 1 .NET](https://gitlab.com/chhabriameet/project1-dotnet/-/tree/master?ref_type=heads)
 
 **Project2 Link:** [Angular](https://gitlab.com/chhabriameet/angular-crud/-/tree/master?ref_type=heads)
-
----
-
-## Team 7
-
-**Members:**
-- Mayank Mali
-  
-Project 1: (Note: He has already emailed the project.)
-Project 2: (I have not received the link yet)
-

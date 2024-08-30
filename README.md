@@ -66,7 +66,7 @@
 
 **Project Link:** [Assessment 1](https://github.com/kailash450/Assessment_1)
 
-**Project2 Link:** (I have not received the link yet)
+**Project2 Link:** [Angular](https://github.com/kailash450/Assessment_2)
 ---
 
 ## Team 6

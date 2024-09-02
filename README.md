@@ -75,7 +75,7 @@
 
 **Project2 Link:** [Angular](https://github.com/kailash450/Assessment_2)
 
-**Project3 Link:** [Cloud(Azure)]()
+**Project3 Link:** [Cloud(Azure)](https://github.com/durgawarrier/Assesment3) 
 ---
 
 ## Team 6
@@ -90,4 +90,4 @@
 
 **Project2 Link:** [Angular](https://gitlab.com/chhabriameet/angular-crud/-/tree/master?ref_type=heads)
 
-**Project3 Link:** [Cloud(Azure)]()
+**Project3 Link:** [Cloud(Azure)]() Not submitted yet

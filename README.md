@@ -46,7 +46,7 @@
 
 **Project2 Link:** [Aasman Angular Assignment](https://github.com/shubham-k01/Aasman_Angular)
 
-**Project3 Link:** [Cloud(Azure)]()
+**Project3 Link:** [Cloud(Azure)](https://github.com/VandeshSawant/Aasman-Project-3)
 
 ---
 
@@ -61,7 +61,7 @@
 
 **Project2 Link:** [Project 2](https://github.com/kokateprasad28/Training-Project3)
 
-**Project3 Link:** [Cloud(Azure)]()
+**Project3 Link:** [Cloud(Azure)](https://github.com/kokateprasad28/Project3)
 ---
 
 ## Team 5
